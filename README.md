@@ -9,8 +9,8 @@ Prácticas realizadas en el curso de [Inteligencia Artificial I](https://www.ucm
 | Práctica 1    | [Enlace](Code/Práctica1/Práctica1.pdf) | [Enlace](Code/Práctica1/Práctica1Resuelta.pdf) |
 | Práctica 2A | [Enlace](Code/Práctica2A/Práctica2A.pdf) | [Enlace](Code/Práctica2A/Práctica2A.ipynb) |
 | Práctica 2B | [Enlace](Code/Práctica2B/Práctica2BEnunciado.pdf) | [Enlace](Code/Práctica2B/Práctica2BResuelta.pdf) |
-| Práctica 3 | [Enlace](Code/Práctica3/Práctica3Enunciado.pdf) | [Enlace](Code/Práctica3/Práctica3Resuelta.pdf) |
-| Práctica 4 | [Enlace](Code/Práctica4/Práctica4Enunciado.pdf) | [Enlace](Code/Práctica4/Práctica4Resuelta.pdf) |
+| Práctica 3 | [Enlace](Code/Práctica3/Práctica3.pdf) | [Enlace](Code/Práctica3/Práctica3Resuelta.pdf) |
+| Práctica 4 | [Enlace](Code/Práctica4/Práctica4.pdf) | [Enlace](Code/Práctica4/Práctica4Resuelta.pdf) |
 
 ## Segundo cuatrimestre
 
