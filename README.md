@@ -1,4 +1,4 @@
-# Artificial_Intelligence
+# Artificial Intelligence
 
 Prácticas realizadas en el curso de [Inteligencia Artificial I](https://www.ucm.es/estudios/grado-matematicas-plan-901964) en la [UCM](https://www.ucm.es/ "Universidad Complutense de Madrid") programed in python.
 
